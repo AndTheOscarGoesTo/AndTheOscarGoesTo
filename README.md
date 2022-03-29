@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Oscar @AndTheOscarGoesTo
+- 👀 I’m interested in C#/.NET, Databases, and Full Stack Web Development
+- 🌱 I’m currently learning Mulesoft
+- 📫 I can be reached here on Github and from there we can establish other forms of communication
