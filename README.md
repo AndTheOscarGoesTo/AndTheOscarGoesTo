@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Oscar @AndTheOscarGoesTo
-- 👀 I’m interested in C#/.NET, Databases, and Full Stack Web Development
-- 🌱 I’m currently learning Mulesoft and continuing to learn C#/.NET, Javascript, and Javascript libraries
+- 👀 I’m work Microsoft technologies, primarily .NET Core, Relational Databases (SSMS and MySQL)
+- 🌱 In an never ending pursuit of knowledge I am looking to gain more experience with front end work and database management such as ETL and batch processing
 - 📫 I can be reached here on Github and from there we can establish other forms of communication
